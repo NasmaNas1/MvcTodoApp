@@ -90,3 +90,6 @@ C:\Users\IT\MvcTodoApp\obj\Debug\net9.0\refint\MvcTodoApp.dll
 C:\Users\IT\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.pdb
 C:\Users\IT\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.genruntimeconfig.cache
 C:\Users\IT\MvcTodoApp\obj\Debug\net9.0\ref\MvcTodoApp.dll
+C:\Users\IT\MvcTodoApp\bin\Debug\net9.0\TodoSolution\DataAccess\obj\DataAccess.csproj.nuget.dgspec.json
+C:\Users\IT\MvcTodoApp\bin\Debug\net9.0\TodoSolution\DataAccess\obj\project.assets.json
+C:\Users\IT\MvcTodoApp\obj\Debug\net9.0\MvcTodoApp.sourcelink.json
